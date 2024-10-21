@@ -1274,7 +1274,7 @@ button.swiper-pagination-bullet {
 
 @media screen and (min-width: 768px) {
     .css-ewjsa9 h2 {
-        font-size:32px;
+        font-size:30px;
         max-width: 55%;
         margin-bottom: 65px;
     }
@@ -1282,21 +1282,21 @@ button.swiper-pagination-bullet {
 
 @media screen and (min-width: 992px) {
     .css-ewjsa9 h2 {
-        font-size:38px;
+        font-size:34px;
         max-width: 500px;
     }
 }
 
 @media screen and (min-width: 1200px) {
     .css-ewjsa9 h2 {
-        font-size:48px;
+        font-size:44px;
         max-width: 640px;
     }
 }
 
 @media screen and (min-width: 1650px) {
     .css-ewjsa9 h2 {
-        font-size:64px;
+        font-size:60px;
         max-width: 851px;
     }
 }
