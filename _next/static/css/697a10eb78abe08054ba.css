@@ -12,7 +12,7 @@
 body {
     color: var(--theme-ui-colors-text,#343D48);
     background-color: var(--theme-ui-colors-background,#FFFFFF);
-    font-family: 'circular';
+    font-family: sans-serif;
 }
 
 * {
@@ -21,7 +21,7 @@ body {
 
 body {
     margin: 0;
-    font-family: 'circular';
+    font-family: sans-serif;
     line-height: 2;
     font-weight: normal;
     -webkit-font-smoothing: antialiased;
@@ -1023,7 +1023,7 @@ button.swiper-pagination-bullet {
 }
 
 @font-face {
-    font-family: 'circular';
+    font-family: sans-serif;
 
     font-style: normal;
     font-display: swap;
@@ -1032,7 +1032,7 @@ button.swiper-pagination-bullet {
 }
 
 @font-face {
-    font-family: 'circular';
+    font-family: sans-serif;
 
     font-style: italic;
     font-display: swap;
@@ -1041,7 +1041,7 @@ button.swiper-pagination-bullet {
 }
 
 @font-face {
-    font-family: 'circular';
+    font-family: sans-serif;
 
     font-style: normal;
     font-display: swap;
@@ -1050,7 +1050,7 @@ button.swiper-pagination-bullet {
 }
 
 @font-face {
-    font-family: 'circular';
+    font-family: sans-serif;
 
     font-style: italic;
     font-display: swap;
@@ -1059,7 +1059,7 @@ button.swiper-pagination-bullet {
 }
 
 @font-face {
-    font-family: 'circular';
+    font-family: sans-serif;
 
     font-style: normal;
     font-display: swap;
@@ -1068,7 +1068,7 @@ button.swiper-pagination-bullet {
 }
 
 @font-face {
-    font-family: 'circular';
+    font-family: sans-serif;
 
     font-style: italic;
     font-display: swap;
@@ -1270,7 +1270,7 @@ button.swiper-pagination-bullet {
     font-size: 28px;
     line-height: 1.25;
     color: #02073E;
-    font-weight: 700;
+    font-weight: 600;
     width: 100%;
     max-width: 100%;
     margin-left: auto;
@@ -1298,7 +1298,7 @@ button.swiper-pagination-bullet {
     .css-ewjsa9 h2 {
         font-size:44px;
         max-width: 680px;
-        font-family: 'circular';
+        font-family: sans-serif;
     }
 }
 
@@ -1766,11 +1766,10 @@ button.swiper-pagination-bullet {
     box-sizing: border-box;
     margin: 0;
     min-width: 0;
-    font-family: 'Open Sans';
+    font-family: sans-serif;
     font-weight: 500;
     line-height: 50px;
-    font-family: 'circular';
-
+    font-family: sans-serif;
     line-height: 50px;
     font-weight: 500;
     font-size: 20px;
@@ -1883,8 +1882,7 @@ button.swiper-pagination-bullet {
 @media screen and (min-width: 768px) {
     .css-kupbbj h3 {
         font-size:30px;
-        font-family: 'circular';
-
+        font-family: sans-serif;
     }
 }
 
@@ -1977,7 +1975,7 @@ button.swiper-pagination-bullet {
     font-weight: 700;
     font-size: 18px;
     line-height: 1;
-    font-family: 'circular';
+    font-family: sans-serif;
 
 }
 
@@ -2063,9 +2061,14 @@ button.swiper-pagination-bullet {
 
 .css-twpzb7 img {
     max-width: 100%;
-    float: right;
-    margin-top: 100px;
+    /* float: right; */
+    margin-top: 75px;
+    margin-left: 100px;
+    height: 500px;
+    width: 500px;
 }
+
+
 
 @media screen and (min-width: 1650px) {
     .css-twpzb7 img {
@@ -2141,7 +2144,7 @@ button.swiper-pagination-bullet {
 @media screen and (min-width: 992px) {
     .css-wlnaf2 h3 {
         font-size:30px;
-        font-family: 'circular';
+        font-family: sans-serif;
 
     }
 }
@@ -2150,7 +2153,7 @@ button.swiper-pagination-bullet {
     .css-wlnaf2 h3 {
         font-size:36px;
         max-width: 90%;
-        font-family: 'circular';
+        font-family: sans-serif;
 
     }
 }
@@ -2159,7 +2162,7 @@ button.swiper-pagination-bullet {
     .css-wlnaf2 h3 {
         font-size:44px;
         max-width: 100%;
-        font-family: 'circular';
+        font-family: sans-serif;
 
     }
 }
@@ -2778,7 +2781,7 @@ button.swiper-pagination-bullet {
     font-weight: 500;
     position: relative;
     outline: none;
-    font-family: 'circular';
+    font-family: sans-serif;
 
     -webkit-transition: all 500ms ease;
     transition: all 500ms ease;
@@ -3528,7 +3531,7 @@ button.swiper-pagination-bullet {
         padding-top: 20px;
         padding-bottom: 20px;
         font-size: 15px;
-        font-family: 'circular';
+        font-family: sans-serif;
 
     }
 }
